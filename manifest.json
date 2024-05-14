@@ -1,19 +1,4 @@
 {
-    "name": "My New TWA",
-    "description": "My New Ton Wallet Application",
-    "icons": [
-      {
-        "src": "/path/to/icon.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ],
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
-    "connect": {
-      "rpc_url": "https://main.ton.dev",
-      "network": "mainnet"
-    }
+    "name": "TON",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZj-DMMnqn9g6BhKeZ4gVtiu7U6Xv9maoxQ&usqp=CAU"
   }
